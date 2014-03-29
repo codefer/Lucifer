@@ -1,0 +1,4 @@
+本套视频主要通过开发一个简单进销存系统，向大家介绍如何在项目开发中使用Dorado7。
+
+
+注意修改dorado-home路径下configure-debug.properties文件和configure.properties中相关的路径
